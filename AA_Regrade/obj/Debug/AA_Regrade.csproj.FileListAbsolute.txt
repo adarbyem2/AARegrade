@@ -1,0 +1,15 @@
+C:\Users\adarby\documents\visual studio 2015\Projects\AA_Regrade\AA_Regrade\bin\Debug\AA_Regrade.exe.config
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\bin\Debug\Archeage Regrade Simulator.exe.config
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\AA_Regrade.csprojResolveAssemblyReference.cache
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\AA_Regrade.Main.resources
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\AA_Regrade.Properties.Resources.resources
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\AA_Regrade.csproj.GenerateResource.Cache
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\Archeage Regrade Simulator.TrustInfo.xml
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\Archeage Regrade Simulator.exe.manifest
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\Archeage Regrade Simulator.exe
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\Archeage Regrade Simulator.pdb
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\bin\Debug\Archeage Regrade Simulator.exe.manifest
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\bin\Debug\Archeage Regrade Simulator.application
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\bin\Debug\Archeage Regrade Simulator.exe
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\bin\Debug\Archeage Regrade Simulator.pdb
+C:\Users\adarby\Documents\Visual Studio 2015\Projects\AA_Regrade\AA_Regrade\dev\AA_Regrade\obj\Debug\Archeage Regrade Simulator.application

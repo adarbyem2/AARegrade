@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA_Regrade", "AA_Regrade\AA_Regrade.csproj", "{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545E7A7E-D2B8-490C-A9FB-AEEB611DB877}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
